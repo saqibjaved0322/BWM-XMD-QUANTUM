@@ -1,9 +1,9 @@
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "SAQI-JD-BOT",
+  "description": "Best WhatsApp bot developed by SAQI-JD",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/2kcb4s.jpeg",
+  "logo": "https://files.catbox.moe/do6ojw.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
   "success_url": "/",
   "stack": "heroku-24",
@@ -40,12 +40,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "SAQI-JD",
       "required": false
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+      "value": "https://files.catbox.moe/7jcw0g.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "03182155629",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -85,12 +85,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "SAQI-MIRU",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA71VWY+zNhT9L35NpmFfIo1U1oQkZN+rPhgwS0KA2IYEPuW/V0xm9I3UdjqVqvJkGfv43HvPufcHyPKEoDGqQf8HKHBSQYraJa0LBPpAL8MQYdAFAaQQ9IFjj5OZQNXL4YbOzd3u8AFThbYreyW+XPfDScohsqbkaDuv4NEFRemlif8FoClluY030pIXwun+dJLwjkYZ2xS98/IgKZlTdfIwmh5NnbyCR4sIE5xkkVXE6IIwTMeonsMEf49+Yi3H8p2auzTfTc0Bu5PWVyEdnxp1lVurucH67mnoLatsZ32P/lWK58doIaHBHda7SWyavfmy2Y/Ei3Uo3KKhq40yqNwlHUZP+iSJMhQ4AcpoQutv510bz4Kjq3lh4cZMNJ9BNbua2JJmeHTh4gXL10vjIsd8vrl9j7hDUnpD7uRgkXN9XkzEGF05qaMWztXf06uwEIdNMpPYk00+E5/jD62c/03ed2NTnPKdsx2FMjuzLW0aOD1JGkf2Pk07Ammywj3dozUdKN+jb1tDnM3hoqeNTae+cWRM1uaKhA6psZEuFhg7VckVk+XlE31IS/wVyxPXeNd0uvVYeA7u5vTcixIngJY7usa+ZR105krPnGM1200sQdY6nPRTuSQjxrnxDKlrcXEQZ5Nr52DthKFWcWu1HMTa61tEZ1Q7Aeizjy7AKEoIxZAmedbu8V0Ag2qFfIzoW3KBeOY9tM1vVYk90RuvxwwcGPctSdExVKsbSZa3OtrMF0lweAVdUODcR4SgYJgQmuPaRYTACBHQ/+2tTm3IGF1yikZJAPpA5XiOU0WG4xXmV/LLLYaUwKL4JUMUdEGI84uLQJ/iEnXB2wVbFCzNkGyRF3WGNxhBMw3VtnmVVyRWYew2wMvz0XVyQYTCSwH6rCyIrMApsvzo/jc8RIOXWd3SBcuwLNMQddUURUniDUWXFdWW/i8eAieZpsmzjK7qqsyLMi9yki5prCpLGqMKX/NQpf+KB2tboqUJjM2rhmqLgqDoqmVqkiBIrKEZ6pc8VFZ+/N4FGbrTp6vftMh2QZhgQjdZWaQ5DD4s//ET+n5eZnRVZ77RLhAG/U/biNIki0gbWZlB7MdJhYw2DtAPYUrQowsCVCU+avFAXW7X0zrdLl8GK3Hnq7W0iJqoVXScZ88jYaCi0A+VF4+B3Iug8t6LB0PpRWEkmVFCFsmsCNp0PBtqe+dv/V0OJB4qoX2bs1KRnjdjS5u7stiUufbm0acxEUbBR5Y96J/LYp2fUfYFbtCJsI/sY7U/enf+2hy9RJyaeX5gN59wn4YH/R8/h5iRBy2ePTrudrvRAbTVat/5kxr6vPhnQWSwPQ1W2sJ5GZntQ+9VaCECRGGSEtAHxnQyJZ2NbbnIOSvaYKBZkWZEGvhZtY/e+Ow+e2O6SJn7PCl7/owO9GMw9Kr5sWLiO9dwqd4ZLeaGmQ4Gtvv6FyCgDw5l52Jw9BYHpbvW2ThxV/jU43u83gzNizpOOn627K0mkaeUui9mk624F5ztcHLssPG5R2qrGB5246ZKBxynw+EIbe5a20g/1PP5MVPL+N1aQ0Y6YW/KdDd2CtvKiaANSntTKectKTuVfZva6yAJJdEV8uZujWLnyE8v6T622RkTsWtfm42azkTkxOt2qJzeu/bb1Ejfp3Xy3lGfWgsT9Db83qvwj9X6KXvm0f2E8T5O/0Za+vZ22owCdy3gijfxMtrtl5zccJ7q+AFRi0WYbMxbJC7jeA0erZ+LFNIwxxfQBzALcJ4EoAtSSKj207l/0ZQkpQsutVYUKwrph+GB1n6DwxI8/gCbuyRFKQoAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -120,7 +120,7 @@
     },
     "CHATBOT": {
       "description": "Enable text chatbot (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "WELCOME_MESSAGE": {
@@ -135,7 +135,7 @@
     },
     "AUDIO_CHATBOT": {
       "description": "Enable audio chatbot (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     }
   },
