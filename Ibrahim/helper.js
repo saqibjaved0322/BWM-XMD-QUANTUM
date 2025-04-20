@@ -1,6 +1,6 @@
 const NEWS_LETTER_JID = "120363285388090068@newsletter"; // Replace with your real one
-const BOT_NAME = "BWM-XMD";
-const DEFAULT_THUMBNAIL = "https://files.catbox.moe/sd49da.jpg";
+const BOT_NAME = "SAQI-JD";
+const DEFAULT_THUMBNAIL = "https://files.catbox.moe/jmecdr.jpg";
 
 const createContext = (userJid, options = {}) => ({
     contextInfo: {
@@ -21,7 +21,7 @@ const createContext = (userJid, options = {}) => ({
             thumbnailUrl: options.thumbnail || DEFAULT_THUMBNAIL,
             mediaType: 1,
             mediaUrl: options.mediaUrl || undefined,
-            sourceUrl: options.sourceUrl || "https://wa.me/254728782591", // link to bot or business
+            sourceUrl: options.sourceUrl || "https://wa.me/923182155629", // link to bot or business
             showAdAttribution: true,
             renderLargerThumbnail: false 
         }
